@@ -3,7 +3,7 @@ Title = this
 +++
 
 # Yes
-So this gets really
+So this gets really well
 
 * Functional
 * Reliable
